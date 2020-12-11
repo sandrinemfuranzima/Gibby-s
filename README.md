@@ -1,10 +1,10 @@
 project name:
-Mirrana's Deputy Congress
+ Mirrana's Deputy Congress
 author name:
-Mfuranzima sandrine
+ Mfuranzima sandrine
 Project description:
-The congress registration
+ The congress registration
 copyright:
-©2020
+ ©2020
 license info:
-MIT
+ MIT
